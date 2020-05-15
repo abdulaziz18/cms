@@ -1,0 +1,14 @@
+*{
+	margin: 0px !important;
+}
+
+body{
+	background: url("assets/images/coding.jpg");
+	background-size:cover;
+	background-attachment: fixed; 
+
+
+}
+h1{
+	color:green!important;
+}
